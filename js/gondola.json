@@ -1,0 +1,14 @@
+[   
+    {"id": 1, "nombre": "Banana", "precio": 500, "stockKg": 100, "ruta": "./imagenes/Frutas/banana-resized.png"},
+    {"id": 2, "nombre": "Manzana", "precio": 800, "stockKg": 150, "ruta": "./imagenes/Frutas/manzanas-resized.png"},
+    {"id": 3, "nombre": "Uva", "precio": 2100, "stockKg": 75, "ruta": "./imagenes/Frutas/uvas-resized.png"},
+    {"id": 4, "nombre": "Sandía", "precio": 200, "stockKg": 200, "ruta": "./imagenes/Frutas/sandias-resized.png"},
+    {"id": 5, "nombre": "Limón", "precio": 400, "stockKg": 120, "ruta": "./imagenes/Frutas/limones-resized.png" },
+    {"id": 6, "nombre": "Naranja", "precio": 500, "stockKg": 140, "ruta": "./imagenes/Frutas/naranjas-resized.png"},
+    {"id": 7, "nombre": "Frutilla", "precio": 2400, "stockKg": 80, "ruta": "./imagenes/Frutas/frutillas-resized.jpg"},
+    {"id": 8, "nombre": "Arandanos", "precio": 2200, "stockKg": 110, "ruta": "./imagenes/Frutas/arandanos-resized.jpg"},
+    {"id": 9, "nombre": "Durazno", "precio": 750, "stockKg": 125, "ruta": "./imagenes/Frutas/durazno-resized.jpg"},
+    {"id": 10, "nombre": "Mandarina", "precio": 650, "stockKg": 95, "ruta": "./imagenes/Frutas/mandarinas-resized.jpg"},
+    {"id": 11, "nombre": "Kiwi", "precio": 1900, "stockKg": 130, "ruta": "./imagenes/Frutas/kiwi-resized.jpg"},
+    {"id": 12, "nombre": "Melón", "precio": 400, "stockKg": 120, "ruta": "./imagenes/Frutas/melones-resized.jpg"}
+]
